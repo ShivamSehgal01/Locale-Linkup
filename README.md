@@ -6,7 +6,7 @@
     Empowering Local Businesses: A Website for Community-driven Commerce
     <br/>
     <br/>
-    <a href="https://github.com/Byte karma/">View Demo</a>
+<!--     <a href="https://github.com/Byte karma/">View Demo</a> -->
     .
   </p>
 </p>
