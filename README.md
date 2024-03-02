@@ -19,7 +19,7 @@
 
 ## About The Project
 
-![Screen Shot](images/Screenshot(196).png)
+![Screen Shot](/images/Screenshot(196).png)
 
 We all Know rise of e-commerce has revolutionized the way we shop, but it has also posed challenges for local businesses. Many small-scale vendors struggle to compete with large online retailers due to limited resources and reach. This project seeks to address this disparity by creating a platform where local businesses can showcase their products and reach a broader audience within their locality.
 
