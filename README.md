@@ -1,9 +1,5 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/Byte karma/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Locale Linkup</h3>
 
   <p align="center">
@@ -15,11 +11,26 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Byte karma//total) ![Contributors](https://img.shields.io/github/contributors/Byte karma/?color=dark-green) 
 
 ## About The Project
 
 ![Screen Shot](/images/Screenshot(196).png)
+
+![Screen Shot](/images/Screenshot(197).png)
+
+![Screen Shot](/images/Screenshot(198).png)
+
+![Screen Shot](/images/Screenshot(199).png)
+
+![Screen Shot](/images/Screenshot(200).png)
+
+![Screen Shot](/images/Screenshot(201).png)
+
+![Screen Shot](/images/Screenshot(202).png)
+
+![Screen Shot](/images/Screenshot(203).png)
+
+![Screen Shot](/images/Screenshot(204).png)
 
 We all Know rise of e-commerce has revolutionized the way we shop, but it has also posed challenges for local businesses. Many small-scale vendors struggle to compete with large online retailers due to limited resources and reach. This project seeks to address this disparity by creating a platform where local businesses can showcase their products and reach a broader audience within their locality.
 
